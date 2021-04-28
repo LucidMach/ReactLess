@@ -2,6 +2,9 @@
 
 It's a faster way of initialising/templating a create-react-app.
 
+## Using This Template
+`degit LucidMach/ReactLess ./<directory name>`
+
 Under The Hood this project uses [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
